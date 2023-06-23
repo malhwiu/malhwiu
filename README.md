@@ -1,4 +1,3 @@
-### I have good knowledge of:
 
 OS:
 
@@ -28,7 +27,7 @@ Programming Language:
 Framework:
 
 [![](https://img.shields.io/badge/React-cb3837?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/.NET-7d73a1?style=flat-square&logo=dotnet&logoColor=ffffff)](https://dotnet.org/)
+[![](https://img.shields.io/badge/.NET-7d73a1?style=flat-square&logo=dotnet&logoColor=ffffff)](https://dotnet.microsoft.com/)
 
 Library:
 
@@ -46,16 +45,14 @@ Version Control:
 
 Service:
 
-[![](https://img.shields.io/badge/-GitHub-23163d?style=flat-square&logo=git&logoColor=white)](https://github.com/)
+[![](https://img.shields.io/badge/-GitHub-23163d?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 Other:
 
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-iptables-333533?style=flat-square&logo=mysql&logoColor=white)]()
-
-
-- 🌱 I’m currently learning Rust.
+[![](https://img.shields.io/badge/-iptables-333533?style=flat-square&logoColor=white)]()
+[![](https://img.shields.io/badge/-apache2-333533?style=flat-square&logoColor=white)]()
 
 
 <p align="center">
