@@ -27,7 +27,7 @@ Programming Language:
 Framework:
 
 [![](https://img.shields.io/badge/React-cb3837?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/React-01cb01?style=flat-square&logo=React&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/Vue-01cb01?style=flat-square&logo=Vue&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/.NET-7d73a1?style=flat-square&logo=dotnet&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/Actixweb-3333a1?style=flat-square&logo=actix-web&logoColor=ffffff)](https://actix.rs/)
 
