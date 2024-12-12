@@ -54,9 +54,3 @@ Other:
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-iptables-333533?style=flat-square&logoColor=white)]()
 [![](https://img.shields.io/badge/-apache2-333533?style=flat-square&logoColor=white)]()
-
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/malhwiu/count.svg" />
-</p>
